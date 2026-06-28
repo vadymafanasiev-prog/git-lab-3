@@ -1,3 +1,0 @@
-Branches let me work on new features in isolation.
-git merge joins work from one branch into another.
-Pull Requests help review code before merging.
